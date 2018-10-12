@@ -15,3 +15,8 @@ will be Android based.“Request supplies” option have sub options such as 'Fo
 location of people who are willing to share those supplies.The app will give the locations of persons in need in the order of person 
 needing medical assistnace ,person needing immidiate rescue,person needing supplies in that order.The authorities will get most clustered 
 area with  need medical assitance in decresing order so Authorities can help more people in need of assitance.
+
+
+The  users just need to download the app and allow use of GPS permissions.In time of need the user can select from above options and get the GPS coordinate for volunteers.
+
+I will use GPS data to use for further use.
